@@ -119,5 +119,5 @@ The Godfather: Part II(9.0)","12 Angry Men(9.0)
 Pulp Fiction(8.9)",
 "Inception(8.8)"))
 
-write.csv(top_10,"ratings.csv")
-View(rating.csv)
+write.csv(top_10,"imdb.csv")
+
