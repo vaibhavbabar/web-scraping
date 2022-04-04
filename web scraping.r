@@ -11,7 +11,7 @@ library(tidyr)
 library(ggplot2)
 library(lubridate)
 library(tibble)
-library(purrr)
+
 library(tidyverse)
 
 ## ----check robots.txt----------------------------------------------------
